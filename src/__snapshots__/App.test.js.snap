@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`My Connected React-Redux Component PostOverview should render with given state from Redux store 1`] = `
+<div
+  className="makeStyles-paperRoot-1"
+  onClick={[Function]}
+>
+  <div
+    className="MuiPaper-root MuiPaper-elevation3 MuiPaper-rounded"
+  >
+    <div
+      className="makeStyles-postTitle-3"
+    >
+      Test posts title
+    </div>
+    <div
+      className="makeStyles-userName-4"
+      onClick={[Function]}
+    >
+      Created By 
+      Bret
+    </div>
+  </div>
+</div>
+`;
+
+exports[`My Connected React-Redux Component Posts should render with given state from Redux store 1`] = `null`;
+
+exports[`React-Redux Component PostOverview should render with given state from Redux store 1`] = `
+<div
+  className="makeStyles-paperRoot-1"
+  onClick={[Function]}
+>
+  <div
+    className="MuiPaper-root MuiPaper-elevation3 MuiPaper-rounded"
+  >
+    <div
+      className="makeStyles-postTitle-3"
+    >
+      Test posts title
+    </div>
+    <div
+      className="makeStyles-userName-4"
+      onClick={[Function]}
+    >
+      Created By 
+      Bret
+    </div>
+  </div>
+</div>
+`;
+
+exports[`React-Redux Component Posts should render with given state from Redux store 1`] = `null`;
