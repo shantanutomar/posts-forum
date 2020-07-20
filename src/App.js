@@ -23,7 +23,7 @@ const App = () => {
   return (
     <>
 			<header className={classes.header}>Posts</header>
-			<Posts/>
+			<Posts />
     </>
   );
 }
